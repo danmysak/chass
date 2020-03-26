@@ -1,0 +1,91 @@
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w ? ? 0 3
+4 1
+2
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq ? 0 3
+4 1
+2
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w qkQK ? 0 3
+4 1
+2
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQk ? 0 3
+4 1
+0
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQq ? 0 3
+4 1
+0
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w Kkq ? 0 3
+4 1
+0
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w Qkq ? 0 3
+4 1
+0
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w - ? 0 3
+4 1
+0
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
+4 1
+1
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 3
+4 1
+1
+
+rnbqkbnr/ppp1ppp1/7p/3pP3/8/8/PPPP1PPP/RNBQKBNR w ? ? 1 3
+4 1
+0
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? ? 3
+5 1
+12
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? 0 3
+5 1
+8
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? 1 3
+5 1
+2
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? 2 3
+5 1
+2
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? 3 3
+5 1
+0
+
+rnbqkb1r/1ppppppp/p6n/8/8/N2P3P/PPP1PPP1/R1BQKBNR b ? ? 4 3
+5 1
+0
+
+8/8/3r4/4K3/8/4kqpb/8/8 b
+3 1
+1
+
+8/8/8/1n6/2n5/8/2k5/Kb6 b
+2 2
+1
+
+5B1b/4Pk2/8/4K3/8/8/8/8 w
+2 0
+1
+
+r1bqkbnr/ppp2ppp/3p4/8/8/8/PPPPPPPP/R1BQKBNR w ? ? ? 5
+8 0
+1
+
+rnbqkbnr/pp3ppp/2p1p3/8/4P3/8/PPPP1PPP/RNBQK1NR w ? ? ? 5
+8 0
+1
+
+r1b1kbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/R1B1KBNR b ? ? ? 6
+11 0
+1
